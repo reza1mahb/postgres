@@ -4,7 +4,7 @@ https://cirrus-ci.org/guide/programming-tasks/#introduction-into-starlark
 See also the starlark specification at
 https://github.com/bazelbuild/starlark/blob/master/spec.md
 
-See also .cirrus.yml and src/tools/ci/README
+ src/tools/ci/README
 """
 
 load("cirrus", "env", "fs")
